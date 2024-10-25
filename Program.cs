@@ -165,7 +165,7 @@ class StudentManager // Класс StudentManager, управляющий опе
         else
         {
             Console.WriteLine("Студенты не найдены.");
-        }
+        } 
     }
 
     public void SortStudents()
